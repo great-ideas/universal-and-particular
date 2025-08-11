@@ -1,2 +1,1 @@
-# universal-and-particular
-Universal and particular
+# Universal and Particular
